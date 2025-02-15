@@ -14,7 +14,7 @@ Roll the dice and try to match all of them to the same number!
 - Game ends when all dice match
 
 ## Live
-You can open project and try it yourself using [this link]()
+You can open project and try it yourself using [this link](https://blayzzand-st.github.io/React-Tenzies/)
 
 ## Install
 To open this project on your local machine, follow this steps:
